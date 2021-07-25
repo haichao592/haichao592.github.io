@@ -1,5 +1,5 @@
 title = "Haichao Zhu"
-baseURL = "https://example.com"
+baseURL = "hczhu.fun"
 theme = "researcher"
 disableKinds = []
 enableEmoji = true
@@ -8,7 +8,7 @@ googleAnalytics = ""  # add your tracking id
 
 [taxonomies]
   tag = "tags"
-  
+
 [params]
   author = "Haichao Zhu"
   description = ""
