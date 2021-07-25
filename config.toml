@@ -1,7 +1,7 @@
 title = "Haichao Zhu"
 baseURL = "https://hczhu.fun/"
 theme = "researcher"
-disableKinds = []
+disableKinds = ["RSS", "sitemap"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
