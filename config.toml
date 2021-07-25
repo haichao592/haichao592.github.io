@@ -1,5 +1,5 @@
 title = "Haichao Zhu"
-baseURL = "https://hczhu.fun"
+baseURL = ""
 theme = "researcher"
 disableKinds = []
 enableEmoji = true
