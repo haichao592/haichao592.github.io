@@ -1,6 +1,6 @@
 ---
 title: "[译] How to Work Hard"
-date: 2021-07-25T13:24:31Z
+date: 2021-07-25
 tags: ["译文", "Paul Graham"]
 draft: false
 ---
