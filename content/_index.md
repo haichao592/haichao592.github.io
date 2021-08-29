@@ -31,6 +31,11 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 
 ##### Conference
+1. **Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**
+<br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
+<br> *Empirical Methods in Natural Language Processing (EMNLP Findings), Long paper, 2021.* -->
+[Code](https://github.com/haichao592/ALTER)
+
 1. [**Learning to Ask Unanswerable Questions for Machine Reading Comprehension**](https://www.aclweb.org/anthology/P19-1415)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Wenhui Wang, Bing Qin, Ting Liu 
 <br> *Association for Computational Linguistics (ACL),  Long Paper, 2019.*
@@ -48,14 +53,10 @@ Haichao published several research papers in top NLP/AI conferences, including [
 [Bib](zhu-etal-2018-hierarchical.bib) 
 [Slides](aaai18_slides.pdf)
 
-<!-- 1. **Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**
-<br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
-<br> *Empirical Methods in Natural Language Processing (EMNLP), Long paper, 2021.* -->
-
 <!-- ##### Jounal
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
-<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2021.* -->
+<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2021.*
 
 ##### Preprint
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
