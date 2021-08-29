@@ -33,7 +33,7 @@ Haichao published several research papers in top NLP/AI conferences, including [
 ##### Conference
 1. **Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**
 <br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
-<br> *Empirical Methods in Natural Language Processing (EMNLP Findings), Long paper, 2021.* -->
+<br> *Empirical Methods in Natural Language Processing (EMNLP Findings), Long paper, 2021.*
 [Code](https://github.com/haichao592/ALTER)
 
 1. [**Learning to Ask Unanswerable Questions for Machine Reading Comprehension**](https://www.aclweb.org/anthology/P19-1415)
