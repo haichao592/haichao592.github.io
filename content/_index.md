@@ -56,7 +56,7 @@ Haichao published several research papers in top NLP/AI conferences, including [
 <!-- ##### Jounal
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
-<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2021.*
+<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2021.* -->
 
 ##### Preprint
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
@@ -66,5 +66,5 @@ Haichao published several research papers in top NLP/AI conferences, including [
 [Bib](zhu-2019-transforming.bib) 
 [Dataset](https://drive.google.com/drive/folders/1VLUvj0sapMYS-3_oFEeN8nxxoV2AUVYS?usp=sharing) 
 
-1. **Answer Guided Neural Network for Conversational Question Generation**
-<br> Zekun Wang, **Haichao Zhu**, Ming Liu, Yiheng Xu, Bing Qin
+<!-- 1. **Answer Guided Neural Network for Conversational Question Generation**
+<br> Zekun Wang, **Haichao Zhu**, Ming Liu, Yiheng Xu, Bing Qin -->
