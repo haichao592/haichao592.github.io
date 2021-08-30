@@ -33,12 +33,12 @@ Haichao published several research papers in top NLP/AI conferences, including [
 ##### Conference
 1. **Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**
 <br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
-<br> *Empirical Methods in Natural Language Processing (EMNLP Findings), Long paper, 2021.*
+<br> *Empirical Methods in Natural Language Processing (**EMNLP Findings**)*, Long paper, 2021.
 [Code](https://github.com/haichao592/ALTER)
 
 1. [**Learning to Ask Unanswerable Questions for Machine Reading Comprehension**](https://www.aclweb.org/anthology/P19-1415)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Wenhui Wang, Bing Qin, Ting Liu 
-<br> *Association for Computational Linguistics (ACL),  Long Paper, 2019.*
+<br> *Association for Computational Linguistics (**ACL**)*, Long Paper, 2019.
 <br> [PDF](zhu-etal-2019-learning.pdf) 
 [Bib](zhu-etal-2019-learning.bib) 
 [Data](https://github.com/haichao592/UnAnsQ) 
@@ -48,7 +48,7 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 1. [**Hierarchical Attention Flow for Multiple-Choice Reading Comprehension**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177")
 <br> **Haichao Zhu**, Furu Wei, Bing Qin, Ting Liu
-<br> *AAAI Conference on Artificial Intelligence (AAAI), Full paper, 2018.*
+<br> *AAAI Conference on Artificial Intelligence (**AAAI**)*, Full paper, 2018.
 <br> [PDF](zhu-etal-2018-hierarchical.pdf) 
 [Bib](zhu-etal-2018-hierarchical.bib) 
 [Slides](aaai18_slides.pdf)
@@ -61,7 +61,7 @@ Haichao published several research papers in top NLP/AI conferences, including [
 ##### Preprint
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
-<br> *arXiv:1911.03324 (Arxiv), 2019.*
+<br> *arXiv:1911.03324 (**Arxiv**)*, 2019.
 <br> [PDF](zhu-2019-transforming.pdf) 
 [Bib](zhu-2019-transforming.bib) 
 [Dataset](https://drive.google.com/drive/folders/1VLUvj0sapMYS-3_oFEeN8nxxoV2AUVYS?usp=sharing) 
