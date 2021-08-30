@@ -46,7 +46,7 @@ Haichao published several research papers in top NLP/AI conferences, including [
 [Slides](acl19_slides.pdf) 
 [DOI](https://doi.org/10.18653/v1/P19-1415) 
 
-1. [**Hierarchical Attention Flow for Multiple-Choice Reading Comprehension**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177")
+1. [**Hierarchical Attention Flow for Multiple-Choice Reading Comprehension**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177)
 <br> **Haichao Zhu**, Furu Wei, Bing Qin, Ting Liu
 <br> *AAAI Conference on Artificial Intelligence (**AAAI**)*, Full paper, 2018.
 <br> [PDF](zhu-etal-2018-hierarchical.pdf) 
