@@ -15,17 +15,17 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 ## Education
 
-- Sep. 2017 - Expected, **Ph.D. in Computer Science**, Harbin Institue of Technology. Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
+- Sep. 2017 - Expected, **Ph.D. in Computer Science**, Harbin Institue of Technology. <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
 
-- Sep. 2015 - June 2017, **M.S. in Software Engineering**, Harbin Institue of Technology. Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
+- Sep. 2015 - June 2017, **M.S. in Software Engineering**, Harbin Institue of Technology. <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
 
 - Sep. 2010 - June 2014, **B.E. in Computer Science**, Harbin Institue of Technology.
 
 ## Experience
 
-- Oct. 2018 – Oct. 2019, Intern, Natural Language Computing Group, Microsoft Research Asia, Beijing, China. Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li).
+- Oct. 2018 – Oct. 2019, Intern, Natural Language Computing Group, Microsoft Research Asia, Beijing, China. <br> Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li).
 
-- May 2017 – Feb. 2018, Intern, Bing Relevance, Microsoft Software Technology Center Asia, Beijing, China. Mentor: [Furu Wei](http://gitnlp.org/index.html).
+- May 2017 – Feb. 2018, Intern, Bing Relevance, Microsoft Software Technology Center Asia, Beijing, China. <br> Mentor: [Furu Wei](http://gitnlp.org/index.html).
 
 ## Publications
 
