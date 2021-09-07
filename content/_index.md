@@ -23,9 +23,9 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 ## Experience
 
-- Oct. 2018 – Oct. 2019, [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Asia, Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li)
+- Oct. 2018 – Oct. 2019, [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Asia (MSRA), Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li)
 
-- May 2017 – Feb. 2018, Bing Relevance, Microsoft Software Technology Center Asia, Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html)
+- May 2017 – Feb. 2018, Bing Relevance, Microsoft Software Technology Center Asia (STCA), Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html)
 
 ## Publications
 
