@@ -19,7 +19,7 @@ googleAnalytics = ""  # add your tracking id
     url = ""
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
-    pageWidth = "750px"
+    pageWidth = "800px"
     avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#2E86C1"
@@ -41,7 +41,7 @@ googleAnalytics = ""  # add your tracking id
     weight = 1
   [[menu.main]]
     name = "Mail"
-    url = "mailto:hczhu@ir.hit.edu.cn"
+    url = "mailto:hczhu[at]ir[dot]hit.edu.cn"
     weight = 2
   [[menu.main]]
     name = "Google Scholar"
