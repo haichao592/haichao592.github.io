@@ -4,7 +4,7 @@ title = "Haichao Zhu - Homepage"
 
 ## Biography
 
-<!-- {{< figure class="avatar" src="/avatar.png" alt="avatar">}} -->
+{{< figure class="avatar" src="/avatar.png" alt="avatar">}}
 Haichao Zhu is a Ph.D. Candidate in the School of Computer Science and Technology at Harbin Institue of Technology.
 He is working on Natural Language Processing under the direction of [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
 He was an intern in [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) at Microsoft Research Asia, exploring Natural Language Understanding (Machine Comprehension and Text Summarization), mentored by [Dr. Furu Wei](http://gitnlp.org/index.html) and [Dr. Li Dong](http://dong.li).
