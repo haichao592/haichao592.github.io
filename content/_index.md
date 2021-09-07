@@ -10,7 +10,7 @@ He is working on Natural Language Processing under the direction of [Prof. Bing 
 He was an intern in [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) at Microsoft Research Asia, exploring Natural Language Understanding (Machine Comprehension and Text Summarization), mentored by [Dr. Furu Wei](http://gitnlp.org/index.html) and [Dr. Li Dong](http://dong.li).
 His research interests are Machine Comprehension, Question Generation, Knowledge Distillation and Text Summarization 
 
-Haichao published several research papers in top NLP/AI conferences, including [**ACL**](http://www.acl2019.org/EN/index.xhtml), [**EMNLP**](https://2021.emnlp.org/) and [**AAAI**](https://aaai.org/Conferences/AAAI-18/), and served as a reviewer in the program committees of ACL, EMNLP, NAACL, COLING, AAAI and IJCAI.
+Haichao published several research papers in top NLP/AI conferences, including [*ACL*](http://www.acl2019.org/EN/index.xhtml), [*EMNLP*](https://2021.emnlp.org/) and [*AAAI*](https://aaai.org/Conferences/AAAI-18/), and served as a reviewer in the program committees of *ACL, EMNLP, NAACL, COLING, AAAI and IJCAI*.
 
 
 ## Education
@@ -23,9 +23,9 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 ## Experience
 
-- Oct. 2018 – Oct. 2019, Intern <br> [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Asia, Beijing, China <br> Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li)
+- Oct. 2018 – Oct. 2019, [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Asia, Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li)
 
-- May 2017 – Feb. 2018, Intern <br> Bing Relevance, Microsoft Software Technology Center Asia, Beijing, China <br> Mentor: [Furu Wei](http://gitnlp.org/index.html)
+- May 2017 – Feb. 2018, Bing Relevance, Microsoft Software Technology Center Asia, Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html)
 
 ## Publications
 
