@@ -69,3 +69,13 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 <!-- 1. **Answer Guided Neural Network for Conversational Question Generation**
 <br> Zekun Wang, **Haichao Zhu**, Ming Liu, Yiheng Xu, Bing Qin -->
+
+## Academic Service
+- Reviewer: ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NLPCC
+- Volunteer: SMP 2018
+
+## SKills
+- Python、C、C++、Shell
+- Pytorch、Tensorflow
+- Linux、Docker、Git
+
