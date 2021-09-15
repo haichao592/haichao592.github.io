@@ -13,6 +13,9 @@ His research interests are Machine Comprehension, Question Generation, Knowledge
 Haichao published several research papers in top NLP/AI conferences, including [*ACL*](http://www.acl2019.org/EN/index.xhtml), [*EMNLP*](https://2021.emnlp.org/) and [*AAAI*](https://aaai.org/Conferences/AAAI-18/), and served as a reviewer in the program committees of *ACL, EMNLP, NAACL, COLING, AAAI and IJCAI*.
 
 
+## Research Interests
+Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Question Answering, Question Generation, Multimodality and Knowledge Distillation.
+
 ## Education
 
 - Sep. 2017 - Expected, **Ph.D. in Computer Science**, Harbin Institute of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
