@@ -15,11 +15,11 @@ Haichao published several research papers in top NLP/AI conferences, including [
 
 ## Education
 
-- Sep. 2017 - Expected, **Ph.D. in Computer Science**, Harbin Institue of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
+- Sep. 2017 - Expected, **Ph.D. in Computer Science**, Harbin Institute of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
 
-- Sep. 2015 - June 2017, **M.S. in Software Engineering**, Harbin Institue of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
+- Sep. 2015 - June 2017, **M.S. in Software Engineering**, Harbin Institute of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
 
-- Sep. 2010 - June 2014, **B.E. in Computer Science**, Harbin Institue of Technology
+- Sep. 2010 - June 2014, **B.E. in Computer Science**, Harbin Institute of Technology
 
 ## Experience
 
