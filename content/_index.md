@@ -57,18 +57,19 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 [Bib](zhu-etal-2018-hierarchical.bib) 
 [Slides](aaai18_slides.pdf)
 
-<!-- ##### Jounal
+##### Jounal
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
-<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2021.* -->
+<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2022.*
+[Dataset](https://aka.ms/wikiref)
 
-##### Preprint
+<!-- ##### Preprint
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
 <br> *arXiv:1911.03324 (**Arxiv**)*, 2019.
 <br> [PDF](zhu-2019-transforming.pdf) 
 [Bib](zhu-2019-transforming.bib) 
-[Dataset](https://drive.google.com/drive/folders/1VLUvj0sapMYS-3_oFEeN8nxxoV2AUVYS?usp=sharing) 
+[Dataset](https://drive.google.com/drive/folders/1VLUvj0sapMYS-3_oFEeN8nxxoV2AUVYS?usp=sharing)  -->
 
 <!-- 1. **Answer Guided Neural Network for Conversational Question Generation**
 <br> Zekun Wang, **Haichao Zhu**, Ming Liu, Yiheng Xu, Bing Qin -->
