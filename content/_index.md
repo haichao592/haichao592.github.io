@@ -38,7 +38,11 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 <br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
 <br> *Empirical Methods in Natural Language Processing (**EMNLP Findings**)*, Long paper, 2021.
 <br> [PDF](zhu-2021-domain.pdf)
+[Bib](2021.findings-emnlp.95.bib)
 [Code](https://github.com/haichao592/ALTER)
+[Poster](emnlp21_poster.pdf) 
+[Slides](emnlp21_slides.pdf) 
+[DOI](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.95) 
 
 1. [**Learning to Ask Unanswerable Questions for Machine Reading Comprehension**](https://www.aclweb.org/anthology/P19-1415)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Wenhui Wang, Bing Qin, Ting Liu 
