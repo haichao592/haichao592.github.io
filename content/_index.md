@@ -34,7 +34,7 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 
 
 ##### Conference
-1. [**Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**](zhu-2021-domain.pdf)
+1. [**Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**](https://aclanthology.org/2021.findings-emnlp.95/)
 <br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
 <br> *Empirical Methods in Natural Language Processing (**EMNLP Findings**)*, Long paper, 2021.
 <br> [PDF](zhu-2021-domain.pdf)
