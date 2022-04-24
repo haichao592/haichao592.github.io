@@ -28,7 +28,7 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 
 - Oct. 2018 – Oct. 2019, Intern at [Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Asia (MSRA), Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html) and [Li Dong](http://dong.li)
 
-- May 2017 – Feb. 2018, Intern at Bing Relevance, Microsoft Software Technology Center Asia (STCA), Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html)
+- May 2017 – Feb. 2018, Intern at Bing Relevance, Microsoft Software Technology Center Asia (STCA), Beijing <br> Mentor: [Furu Wei](http://gitnlp.org/index.html), Ryan Ma
 
 ## Publications
 
@@ -60,8 +60,8 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 ##### Jounal
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
-<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2022.*
-[Dataset](https://aka.ms/wikiref)
+<br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 2022.*
+<br> [Dataset](https://aka.ms/wikiref)
 
 <!-- ##### Preprint
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
