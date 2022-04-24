@@ -1,0 +1,18 @@
+@inproceedings{zhu-etal-2021-less-domain,
+	title = {Less Is More: Domain Adaptation with Lottery Ticket for Reading Comprehension},
+	author = {Zhu, Haichao  and
+	          Wang, Zekun  and
+	          Zhang, Heng  and
+	          Liu, Ming  and
+	          Zhao, Sendong  and
+	          Qin, Bing},
+	booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2021},
+	month = nov,
+	year = {2021},
+	address = {Punta Cana, Dominican Republic},
+	publisher = {Association for Computational Linguistics},
+	url = {https://aclanthology.org/2021.findings-emnlp.95},
+	doi = {10.18653/v1/2021.findings-emnlp.95},
+	pages = {1102--1113},
+	abstract = {In this paper, we propose a simple few-shot domain adaptation paradigm for reading comprehension. We first identify the lottery subnetwork structure within the Transformer-based source domain model via gradual magnitude pruning. Then, we only fine-tune the lottery subnetwork, a small fraction of the whole parameters, on the annotated target domain data for adaptation. To obtain more adaptable subnetworks, we introduce self-attention attribution to weigh parameters, beyond simply pruning the smallest magnitude parameters, which can be seen as combining structured pruning and unstructured magnitude pruning softly. Experimental results show that our method outperforms the full model fine-tuning adaptation on four out of five domains when only a small amount of annotated data available for adaptation. Moreover, introducing self-attention attribution reserves more parameters for important attention heads in the lottery subnetwork and improves the target domain model performance. Our further analyses reveal that, besides exploiting fewer parameters, the choice of subnetworks is critical to the effectiveness.}
+}
