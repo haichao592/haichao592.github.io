@@ -62,11 +62,11 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 [Slides](aaai18_slides.pdf)
 
 ##### Jounal
-1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
+1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://ieeexplore.ieee.org/document/9767571)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
 <br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 2022.*
 <br> [Dataset](https://aka.ms/wikiref) 
-&nbsp; [DOI](https://doi.org/10.1109/TASLP.2022.3171963)
+&nbsp;[DOI](https://doi.org/10.1109/TASLP.2022.3171963)
 
 <!-- ##### Preprint
 1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://ieeexplore.ieee.org/document/9767571)
