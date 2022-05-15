@@ -34,7 +34,7 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 
 
 ##### Conference
-1. [**Less Is More: Domain Adaptation with Lottery Ticket forReading Comprehension**](https://aclanthology.org/2021.findings-emnlp.95/)
+1. [**Less Is More: Domain Adaptation with Lottery Ticket for Reading Comprehension**](https://aclanthology.org/2021.findings-emnlp.95/)
 <br> **Haichao Zhu**, Zekun Wang, Heng Zhang, Ming Liu, Sendong Zhao, Bing Qin
 <br> *Empirical Methods in Natural Language Processing (**EMNLP Findings**)*, Long paper, 2021.
 <br> [PDF](zhu-2021-domain.pdf)
@@ -66,10 +66,10 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
 <br> *IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 2022.*
 <br> [Dataset](https://aka.ms/wikiref) 
- [DOI](https://doi.org/10.1109/TASLP.2022.3171963)
+&nbsp; [DOI](https://doi.org/10.1109/TASLP.2022.3171963)
 
 <!-- ##### Preprint
-1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://arxiv.org/abs/1911.03324)
+1. [**Transforming Wikipedia into Augmented Data for Query-Focused Summarization**](https://ieeexplore.ieee.org/document/9767571)
 <br> **Haichao Zhu**, Li Dong, Furu Wei, Bing Qin, Ting Liu
 <br> *arXiv:1911.03324 (**Arxiv**)*, 2019.
 <br> [PDF](zhu-2019-transforming.pdf) 
