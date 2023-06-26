@@ -83,9 +83,6 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 - Reviewer: ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NLPCC
 - Volunteer: SMP 2018
 
-## Teaching Experience
-- Spring 2016 & Fall 2016, Teaching Assitant, Information Retrieval
-
 ## SKills
 - Python、C、C++、Shell
 - Pytorch、Tensorflow
