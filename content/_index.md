@@ -18,7 +18,7 @@ Natural Langugage Processing, Machine Reading Comprehension, Open-Domain Questio
 
 ## Education
 
-- Sep. 2017 - Expected, **Ph.D. in Computer Science**, Harbin Institute of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
+- Sep. 2017 - June. 2022, **Ph.D. in Computer Science**, Harbin Institute of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
 
 - Sep. 2015 - June 2017, **M.S. in Software Engineering**, Harbin Institute of Technology <br> Supervisor: [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)
 
