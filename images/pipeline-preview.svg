@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" fill="#0f1c35"/>
+  <g fill="none" stroke="#26344d" stroke-width="1">
+    <path d="M94 58V250M166 58V250M238 58V250M310 58V250M382 58V250M454 58V250M526 58V250"/>
+    <path d="M80 103H554M80 167H554M80 231H554"/>
+  </g>
+  <g font-family="ui-monospace, monospace" font-size="12" fill="#a8b5ce">
+    <text x="24" y="90">GPU 0</text><text x="24" y="154">GPU 1</text><text x="24" y="218">GPU 2</text>
+    <text x="26" y="32" fill="#dbeafe" font-size="13">PIPELINE SCHEDULE</text>
+    <text x="456" y="278">time →</text>
+  </g>
+  <g fill="#60a5fa">
+    <rect x="94" y="66" width="64" height="34" rx="5"/><rect x="166" y="66" width="64" height="34" rx="5"/>
+    <rect x="166" y="130" width="64" height="34" rx="5"/><rect x="238" y="130" width="64" height="34" rx="5"/>
+    <rect x="238" y="194" width="64" height="34" rx="5"/><rect x="382" y="194" width="64" height="34" rx="5"/>
+  </g>
+  <g fill="#2dd4bf">
+    <rect x="310" y="194" width="64" height="34" rx="5"/><rect x="382" y="130" width="64" height="34" rx="5"/>
+    <rect x="454" y="66" width="64" height="34" rx="5"/>
+  </g>
+  <g fill="#a78bfa">
+    <rect x="454" y="194" width="64" height="34" rx="5"/><rect x="454" y="130" width="64" height="34" rx="5"/>
+    <rect x="526" y="66" width="28" height="34" rx="5"/>
+  </g>
+  <g font-family="ui-monospace, monospace" font-size="12" fill="#0f1c35" text-anchor="middle">
+    <text x="126" y="87">F</text><text x="198" y="87">F</text><text x="198" y="151">F</text><text x="270" y="151">F</text>
+    <text x="270" y="215">F</text><text x="414" y="215">F</text><text x="342" y="215">dX</text><text x="414" y="151">dX</text>
+    <text x="486" y="87">dX</text><text x="486" y="151">dW</text><text x="486" y="215">dW</text>
+  </g>
+</svg>
